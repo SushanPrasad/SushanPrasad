@@ -22,11 +22,10 @@ A streamlined email platform featuring email authentication, inbox management, a
 <br> </br>
 
 <h2>Netflix Clone</h2>
-<br> </br>
 A dynamic movie streaming platform with user authentication and trailer popups, built with React.js and deployed on Firebase.<a href="https://netflix4e19f.web.app/"> Link to demo </a>
 <div>
+ 
 <h2>LinkedIn Clone</h2>
-<br> </br>
 A professional networking site with real-time posting and user authentication, utilizing React.js and Firebase for smooth data synchronization.<a href="https://sushan-linkedin-eee.web.app/"> Link to demo </a> </div>div>
 <br> </br>
 
