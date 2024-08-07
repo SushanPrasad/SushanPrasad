@@ -13,7 +13,7 @@ An ecommerce platform for electronic products with features like product listing
 
 <h2>Gmail Clone </h2>
 <div>
-A streamlined email platform featuring email authentication, inbox management, and real-time updates, built with React.js and Firebase.<a href="https://sushan-296df.web.app/"> Link to demo </a> </div>
+A streamlined email platform featuring email authentication, inbox management, and real-time updates, built with React.js and Firebase.<a href="https://sushan-296df.web.app/"> Link to demo </a> 
 <br> </br>
 
 Amazon Clone:<h2>Amazon Clone</h2>
