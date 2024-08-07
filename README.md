@@ -3,6 +3,7 @@ I'm a  Full Stack Developer, currently interning at Besant Technologies, Chennai
 
 ## My Personal Projects
 Prime Mart: An ecommerce platform for electronic products with features like product listings, user authentication, PayPal integration, and more. Built with React.js, Node.js, Express.js, MongoDB, and deployed on Render.<a href="https://primemart-sushan-9zxv.onrender.com/"> Link to demo </a>
+<br> </br>
 Google Search: A Google search clone utilizing the Google Custom Search API for real-time search results. Enhanced with React hooks for better performance.<a href="https://search-engine-suji.web.app/"> Link to demo </a>
 Gmail Clone: A streamlined email platform featuring email authentication, inbox management, and real-time updates, built with React.js and Firebase.<a href="https://sushan-296df.web.app/"> Link to demo </a>
 Amazon Clone: An online shopping platform with product browsing, user authentication, and secure checkout, developed using React.js and Firebase.<a href="https://suji-c47cd.web.app/"> Link to demo </a>
