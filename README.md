@@ -1,9 +1,7 @@
 ## Hi there, I'm Sushan Prasad 👋
-
-<u>
-## My Personal Projects:
-</u>
- 
+<b>
+<u> My Personal Projects: </u>
+</b>
  <h2>Prime Mart </h2>
 <div>
 An ecommerce platform for electronic products with features like product listings, user authentication, PayPal integration, and more. Built with React.js, Node.js, Express.js, MongoDB, and deployed on Render.<a href="https://primemart-sushan-9zxv.onrender.com/"> Link to demo </a> </div>
