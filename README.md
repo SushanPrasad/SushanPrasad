@@ -8,12 +8,12 @@ An ecommerce platform for electronic products with features like product listing
 <br> </br>
 <h2> Google Search
  </h2>
-<div>A Google search clone utilizing the Google Custom Search API for real-time search results. Enhanced with React hooks for better performance.<a href="https://search-engine-suji.web.app/"> Link to demo </a> </div>div>
+<div>A Google search clone utilizing the Google Custom Search API for real-time search results. Enhanced with React hooks for better performance.<a href="https://search-engine-suji.web.app/"> Link to demo </a> </div>
 <br> </br>
 
 <h2>Gmail Clone </h2>
 <div>
-A streamlined email platform featuring email authentication, inbox management, and real-time updates, built with React.js and Firebase.<a href="https://sushan-296df.web.app/"> Link to demo </a>  </div>div>
+A streamlined email platform featuring email authentication, inbox management, and real-time updates, built with React.js and Firebase.<a href="https://sushan-296df.web.app/"> Link to demo </a>  </div>
 <br> </br>
 
 <h2>Amazon Clone</h2>
