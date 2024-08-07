@@ -1,5 +1,13 @@
 ## Hi there, I'm Sushan Prasad 👋
-I'm a  Full Stack Developer, currently interning at Besant Technologies, Chennai. I hold a B.Tech in Computer Science and Engineering from Rajiv Gandhi College of Engineering and Technology. I’m actively exploring the latest technologies and sharpening my skills in full stack development.
+I'm a  Full Stack Developer, currently interning at Besant Technologies, Chennai.
+
+## My Personal Projects
+Prime Mart: An ecommerce platform for electronic products with features like product listings, user authentication, PayPal integration, and more. Built with React.js, Node.js, Express.js, MongoDB, and deployed on Render.<a href="https://primemart-sushan-9zxv.onrender.com/"> Link to demo </a>
+Google Search: A Google search clone utilizing the Google Custom Search API for real-time search results. Enhanced with React hooks for better performance.<a href="https://search-engine-suji.web.app/"> Link to demo </a>
+Gmail Clone: A streamlined email platform featuring email authentication, inbox management, and real-time updates, built with React.js and Firebase.<a href="https://sushan-296df.web.app/"> Link to demo </a>
+Amazon Clone: An online shopping platform with product browsing, user authentication, and secure checkout, developed using React.js and Firebase.<a href="https://suji-c47cd.web.app/"> Link to demo </a>
+Netflix Clone: A dynamic movie streaming platform with user authentication and trailer popups, built with React.js and deployed on Firebase.<a href="https://netflix4e19f.web.app/"> Link to demo </a>
+LinkedIn Clone: A professional networking site with real-time posting and user authentication, utilizing React.js and Firebase for smooth data synchronization.<a href="https://sushan-linkedin-eee.web.app/"> Link to demo </a>
 
 
 
