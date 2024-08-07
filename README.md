@@ -1,5 +1,4 @@
 ## Hi there, I'm Sushan Prasad 👋
-I'm a Full Stack Developer interning at Besant Technologies, Chennai.
 
 
 ## My Personal Projects:
