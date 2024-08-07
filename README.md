@@ -3,8 +3,8 @@ I'm a  Full Stack Developer, currently interning at Besant Technologies, Chennai
 
 ## My Personal Projects
 <h2>Prime Mart: </h2>
-<br> </br>
-An ecommerce platform for electronic products with features like product listings, user authentication, PayPal integration, and more. Built with React.js, Node.js, Express.js, MongoDB, and deployed on Render.<a href="https://primemart-sushan-9zxv.onrender.com/"> Link to demo </a>
+<div>
+An ecommerce platform for electronic products with features like product listings, user authentication, PayPal integration, and more. Built with React.js, Node.js, Express.js, MongoDB, and deployed on Render.<a href="https://primemart-sushan-9zxv.onrender.com/"> Link to demo </a> </div>
 <br> </br>
 <h2> Google Search:
  </h2>
