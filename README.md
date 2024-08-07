@@ -29,7 +29,6 @@ A dynamic movie streaming platform with user authentication and trailer popups, 
 A professional networking site with real-time posting and user authentication, utilizing React.js and Firebase for smooth data synchronization.<a href="https://sushan-linkedin-eee.web.app/"> Link to demo </a> </div>
 <br> </br>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
